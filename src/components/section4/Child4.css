@@ -1,0 +1,89 @@
+.backgound-container {
+  background-color: black;
+}
+.h_line {
+  color: white;
+}
+.card_small4 {
+  width: 750px;
+  height: 400px;
+}
+.holderrr {
+  overflow: hidden;
+}
+.card_image4 {
+  height: 100%;
+  width: 100%;
+  transition: all 200ms ease-in-out;
+}
+.card_image4:hover {
+  transform: scale(1.1);
+}
+.image4 {
+  height: 100%;
+  width: 100%;
+  transition: all 200ms ease-in-out;
+}
+.image4:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.heading4 {
+  color: white;
+  font-family: sans-serif;
+  letter-spacing: -1px;
+}
+.big_heading {
+  color: white;
+  font-family: sans-serif;
+  letter-spacing: -1px;
+  font-size: 40px;
+}
+.red {
+  color: red;
+}
+.left_margin {
+  transition: all 200ms ease-in-out;
+}
+.red:hover .left_margin {
+  padding-left: 30px;
+}
+.evolve {
+  color: white;
+  font-family: sans-serif;
+  letter-spacing: -1px;
+  font-size: 30px;
+}
+.down_text {
+  font-family: "Segoe UI";
+  font-weight: 400;
+  font-size: 15px;
+  color: white;
+  line-height: 18px;
+}
+.anchor {
+  font-family: "Segoe UI";
+  font-weight: 400;
+  font-size: 15px;
+  color: white;
+  border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.card_heading4 {
+  color: white;
+  font-family: sans-serif;
+  letter-spacing: -1px;
+  font-size: 30px;
+}
+.card_heading4000 {
+  font-family: sans-serif;
+  letter-spacing: -1px;
+  font-size: 22px;
+}
+.description {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: white;
+  line-height: 20px;
+}

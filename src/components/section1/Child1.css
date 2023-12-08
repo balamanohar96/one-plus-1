@@ -1,0 +1,62 @@
+.box_10pro{
+    height: 70vh;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    padding: 5px;
+}
+.blck{
+    background-color: black;
+    margin-right: 10px;
+    color: beige;
+}
+.whit{
+    background-color: white;
+    color: black;
+}
+.img_container{
+    overflow: hidden;
+}
+.image1{
+    height: 100%;
+    width: 100%;
+    transform: scale(1.1);
+    transition: all 150ms ease-in-out;
+}
+
+.image1:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.hassel{
+    font-weight: 900;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+.quote{
+    font-family: 'Segoe UI';
+    font-weight: 500;
+}
+.product{
+    font-size: 50px;
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: -2px;
+}
+.liner{
+    line-height: 20px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+}
+.saving{
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 15px;
+}
+.price{
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    line-height: 20px;
+    font-size: 18px;
+}

@@ -1,0 +1,81 @@
+.hot{
+    padding-bottom: 5px;
+    margin-bottom: 18px;
+    font-family: sans-serif;
+    letter-spacing: -1px;
+}
+.link_list a{
+    color: black;
+    text-decoration: none;
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    letter-spacing: -0.4px;
+}
+.link_list{
+    list-style: none;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.spotlight{
+    border-bottom: 2px solid  red ;
+}
+.link_list a:hover{
+    border-bottom: 2px solid  red;
+}
+.small_hot_card{
+    margin: 10px;
+    width: 25%;
+}
+.image_holder{
+    overflow: hidden;
+    height: 285px;
+    margin-bottom: 20px;
+}
+.hot_card_image{
+    width: 100%;
+    transition: all 250ms ease-in-out;
+}
+.hot_card_image:hover{
+    transform: scale(1.125);
+    cursor: pointer;
+}
+.cards_holder{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.special_button{
+    border: none;
+    font-family: 'Segoe UI';
+    height: 40px;
+    width: 100%;
+    text-align: left;
+    background-color: transparent;
+    transition: all 400ms ease-in-out;
+
+}
+.small_hot_card:hover .special_button{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.small_hot_card h3{
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: -1px;
+}
+.small_hot_card p{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.off{
+    color: red;
+}
+.butttton{
+    border: none;
+    height: 40px;
+    width: 100%;
+    background-color: transparent;
+}

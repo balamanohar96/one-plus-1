@@ -1,0 +1,24 @@
+.card_small{
+    width: 800px;
+    height: 350px;
+}
+.card_image{
+    height: 100%;
+    width: 100%;
+    transition: all 150ms ease-in-out;
+}
+.margin{
+    margin-right: 15px;
+}
+.strike{
+    text-decoration: line-through;
+}
+.card_image:hover {
+    transform: scale(1.05);
+}
+.product_card{
+    font-size: 40px;
+    font-weight: 400;
+    font-family: sans-serif;
+    letter-spacing: -2px;
+}

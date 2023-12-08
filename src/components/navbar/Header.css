@@ -1,0 +1,44 @@
+.nav-item a{
+    transition: all 0ms ease-in !important;
+    text-decoration: none !important;
+}
+
+
+.nav-item a:hover{
+    border-bottom: 2px solid  red;
+}
+.brand_name{
+    color: red !important;
+    font-weight: 700 !important;
+    font-family: sans-serif;
+    letter-spacing: -0.5px;
+}
+.borderrr{
+    border: 2px solid red;
+    padding: 2px 5px;
+}
+.naaaav{
+    display: flex;
+    margin-left: 10px;
+    background-color: white;
+    padding: 10px;
+    list-style: none;
+    margin-bottom: 0;
+    
+}
+li{
+    margin-left: 20px;  
+}
+
+a{
+    text-decoration: none !important;
+    color: black;
+    font-family: sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.last{
+    margin-right: 20px;
+}

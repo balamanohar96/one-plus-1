@@ -1,0 +1,22 @@
+.carousel-caption {
+    position: absolute;
+    z-index: 1;
+    left: -300px;
+    display:table;
+    width:100%;
+    height:100%;
+    
+}
+/* 
+.carousel-caption div {
+    display:table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.trickcenter {
+    position: fixed;
+    top: 84%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
